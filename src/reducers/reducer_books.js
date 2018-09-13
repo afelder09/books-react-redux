@@ -1,7 +1,7 @@
 export default function() {
     return [
-        { title: 'Harry Dick'},
-        { title: 'Fuck Bitches'},
-        { title: "Cunty"}
+        { title: 'Moby Dick', pages: 101 },
+        { title: 'Things Fall Apart', pages: 1 },
+        { title: "A Wrinkle In Time", pages: 54}
     ]
 }
